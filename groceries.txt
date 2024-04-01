@@ -1,3 +1,7 @@
+----
+Groceries
+----
+
 - 4 tomatoes
 - 6 shallots
 - 1 fennel bulb
