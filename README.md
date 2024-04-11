@@ -42,12 +42,10 @@ dotnet test --filter "FullyQualifiedName!~AcceptanceTests"
 ```
 
 To run the acceptance tests, first start the application:
-
 ```bash
 cd .\src\Web\
 dotnet run
 ```
-
 Then, in a new console, run the tests:
 ```bash
 cd .\src\Web\
