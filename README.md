@@ -40,7 +40,7 @@ To run the unit, integration, and functional tests (excluding acceptance tests):
 ```bash
 dotnet test --filter "FullyQualifiedName!~AcceptanceTests"
 ```
-
+  
 To run the acceptance tests, first start the application:
 ```bash
 cd .\src\Web\
