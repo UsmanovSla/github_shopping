@@ -50,7 +50,6 @@ Then, in a new console, run the tests:
 cd .\src\Web\
 dotnet test
 ```
-
 <!--#endif -->
 
 ## Help
